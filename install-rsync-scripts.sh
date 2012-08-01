@@ -11,4 +11,6 @@ chmod +x upload.sh
 chmod +x download.sh
 
 # message
+echo ''
 echo 'Posite vibrations :D'
+echo ''
