@@ -1,4 +1,0 @@
-.gitignore
-.git/
-_extras/
-.DS_Store
