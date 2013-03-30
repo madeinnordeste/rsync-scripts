@@ -10,4 +10,4 @@ ORIGEN=/Users/USERNAME/Sites/LOCAL-SITE-PATH/
 DESTINO=USER@IP:public_html/
 
 # upload-exclude são os arquivos que devem ser ignorado durante o envio
-rsync -Crvz --update --progress --exclude-from 'upload-exclude.txt' $ORIGEN $DESTINO
+rsync -Crvz --update --progress --exclude-from 'exclude.txt' $ORIGEN $DESTINO
